@@ -8,14 +8,14 @@ import random
 
 today = datetime.now()
 start_date = "2021-08-14"
-city = "玉林"
+city = "广西"
 birthday = "06-26"
 
 app_id = "wx3aa564e733e68cd9"
 app_secret = "12c932ca4d8ab68d863609203c559987"
 
 user_id = "oLVva6czwKN0Er0j7t3t3gydwfQY"
-template_id = "jAqJVDpUFfBXDOrkeIXvGosbtNzHlGPj-nzif6i4YHU"
+template_id = "fCoqlcSzaV4R19AmwaVBpfS3HdCwc5mYv_R4K3FcaBU"
 
 
 def get_weather():
